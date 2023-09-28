@@ -18,7 +18,7 @@ git init
 ```
 
 ## 🔍 Referências
-
+Adicionar referencias para o GIT
 
 ## Anotaçôes 
 
