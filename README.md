@@ -18,7 +18,8 @@ git init
 ```
 
 ## 🔍 Referências
-Adicionar referencias para o GIT
+* [Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+* [Markdown GitHub](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
 
 ## Anotaçôes 
 
